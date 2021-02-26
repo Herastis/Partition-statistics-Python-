@@ -1,6 +1,6 @@
-# Python---Partition-statistics
+# Partition-statistics (Python)
 
-Realizati o aplicatie care primeste ca parametru o partitie si analizeaza toate directoarele si
-fisierele de acolo. La final, aceasta va afisa numarul de directoare si de fisiere, proportia
-fiecarui tip de fisier (.zip, .exe etc.) atat ca numar cat si ca size. Toate aceste informatii vor fi
-afisate sub forma de charturi (pie chart, bar chart etc.) a.i. sa fie cat mai usor de intepretat.
+Create an application that receives a partition as a parameter and analyzes all directories and
+files from that partition. At the end, it will display the number of directories and files, the proportion of
+each file type (.zip, .exe, etc.) both in number and size. All this information will be
+displayed as charts (pie chart, bar chart, etc.).
